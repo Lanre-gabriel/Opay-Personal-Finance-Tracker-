@@ -29,6 +29,7 @@ The step-by-step procedure in analysing this dataset is as follows;
 
 ---------------------
 ## Dashboard Preview 
+- ![Dashboard]_(Opay final .png)
 
 ------------------------
 ## Key Findings 
