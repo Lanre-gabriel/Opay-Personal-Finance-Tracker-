@@ -16,6 +16,7 @@ From my daily expenses e.g buying of groceries,household expenses,mobile data et
 ## Data Source
  The Data source used for this project is my Opay Bank statement (pdf), downloaded directly from my Opay app from Feb - May 2025.
  
+ ![File](Opay_Acct_Statement_.Pdf)
  
 -----------------------
 ## Step-by-Step Procedure
@@ -30,7 +31,7 @@ The step-by-step procedure in analysing this dataset is as follows;
 
 ---------------------
 ## Dashboard Preview 
-- ![Dashboard](Opay_final_.png)
+ ![Dashboard](Opay_final_.png)
 
 ------------------------
 ## Key Findings 
