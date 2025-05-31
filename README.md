@@ -25,7 +25,7 @@ The step-by-step procedure in analysing this dataset is as follows;
 - Imported the downloaded Bank statement (pdf) into excel,which automatically loads into power Query 
 - In power query,data is cleaned by selecting relevant tables,deleting irrelevant columns and standardization to relevant forms.
 - Data is loaded back to excel workbook in a table format,where debit & credit are categorized into columns,
- and a seperate keyword table created to categories payment  descriptions using 'indexmatchisnumber)
+ and a seperate keyword table created to categories payment  descriptions.
 - Pivot tables was inserted for further analysis, with pivot charts and slicers inserted
 - Dashboard was designed using Opay branded color,  with Hex code ; #00DE8F,pivot charts ,icons & Slcers for interactivity
 
